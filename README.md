@@ -50,12 +50,12 @@ endmodule
 
 ```
 ```
-Developed by:Dharshini R
-RegisterNumber: 212224220023
+Developed by: Dharshini R
+Register Number: 212224220023
 ```
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-![image](https://github.com/user-attachments/assets/2d6328d7-dc98-44d3-9a57-b40e84e0f30a)
+![5 1](https://github.com/user-attachments/assets/80b65169-2b76-4015-8411-3752deae47f8)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 ![5 2](https://github.com/user-attachments/assets/84ca55d6-e895-427f-9975-e4dc9ceac9d7)
